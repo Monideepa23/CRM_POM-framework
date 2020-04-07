@@ -40,6 +40,11 @@ public class LoginPageTest extends TestBase{
 		
 	} 
 	
+	public void TestLogin()
+	{
+		
+	}
+	
 	@AfterMethod
 	public void tearDown()
 	{
